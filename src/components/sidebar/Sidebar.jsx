@@ -1,18 +1,17 @@
 import React from "react";
 import "./sidebar.css";
-import {
-  LineStyle,
-  Timeline,
-  PermIdentity,
-  Storefront,
-  BarChart,
-  MailOutline,
-  DynamicFeed,
-  ChatBubbleOutline,
-  WorkOutline,
-  Report,
-  CreditCardIcon,
-} from "@material-ui/icons";
+
+import LineStyle from "@mui/icons-material/LineStyle";
+import Timeline from "@mui/icons-material/Timeline";
+import PermIdentity from "@mui/icons-material/PermIdentitye";
+import Storefront from "@mui/icons-material/ Storefront";
+import BarChart from "@mui/icons-material/ BarChart";
+import MailOutline from "@mui/icons-material/ MailOutline";
+import DynamicFeed from "@mui/icons-material/DynamicFeed";
+import ChatBubbleOutline from "@mui/icons-material/ChatBubbleOutline";
+import WorkOutline from "@mui/icons-material/WorkOutline";
+import Report from "@mui/icons-material/WorkOutline";
+import CreditCardIcon from "@mui/icons-material/CreditCardIcon";
 
 export default function Sidebar() {
   return (
