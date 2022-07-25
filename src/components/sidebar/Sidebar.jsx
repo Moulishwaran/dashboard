@@ -5,16 +5,15 @@ import {
   Timeline,
   PermIdentity,
   Storefront,
-  AttachMoney,
+  PaidIcon,
   BarChart,
   MailOutline,
   DynamicFeed,
   ChatBubbleOutline,
   WorkOutline,
   Report,
+  CreditCardIcon,
 } from "@material-ui/icons";
-import PaidIcon from "@mui/icons-material/Paid";
-import CreditCardIcon from "@mui/icons-material/CreditCard";
 
 export default function Sidebar() {
   return (
