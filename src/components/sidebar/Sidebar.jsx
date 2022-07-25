@@ -5,7 +5,6 @@ import {
   Timeline,
   PermIdentity,
   Storefront,
-  PaidIcon,
   BarChart,
   MailOutline,
   DynamicFeed,
@@ -31,7 +30,7 @@ export default function Sidebar() {
               Account
             </li>
             <li className="sidebarListItem">
-              <PaidIcon className="sidebarIcon" />
+              <Report className="sidebarIcon" />
               Transaction
             </li>
           </ul>
