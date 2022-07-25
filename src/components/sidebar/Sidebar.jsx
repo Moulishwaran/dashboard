@@ -29,7 +29,7 @@ export default function Sidebar() {
             </li>
             <li className="sidebarListItem">
               <Timeline className="sidebarIcon" />
-              Analytics
+              Account
             </li>
             <li className="sidebarListItem">
               <PaidIcon className="sidebarIcon" />
