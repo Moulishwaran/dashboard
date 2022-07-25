@@ -1,8 +1,6 @@
 import React from "react";
 import "./featuredInfo.css";
 import { ArrowDownward, ArrowUpward } from "@material-ui/icons";
-import AttachMoneyIcon from "@mui/icons-material/AttachMoney";
-import CreditCardIcon from "@mui/icons-material/CreditCard";
 
 export default function FeaturedInfo() {
   return (
